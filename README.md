@@ -2,6 +2,15 @@
 
 A fast, modern, and customizable starter kit to build scalable SaaS applications using **React**, **Vite**, **Tailwind CSS**, and **KimUI** components.
 
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/nextjs-ac1be.appspot.com/o/banners%2FScreenshot%202025-01-04%20at%201.55.53%E2%80%AFPM.png?alt=media&token=a9772003-4d64-48c0-ae69-727859a684dc)
+
+## Live Preview
+[KimUI SAAS Starter Kit](https://kimui-saas.rohitgadekar.dev)
+
+## About
+The template is designed to kickstart a SaaS project by providing a polished and customizable landing page structure. It focuses on marketing and conversion optimization for potential customers before they sign up or interact with the full application.
+
+
 ## Features
 
 - **Blazing-Fast Development**: Powered by Vite for instant hot module replacement (HMR) and optimized build times.
@@ -28,7 +37,5 @@ pnpm install && pnpm run dev
 - [@rohitgadekar](https://www.rohitgadekar.dev)
 
 
-## Screenshots
 
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/nextjs-ac1be.appspot.com/o/banners%2FScreenshot%202025-01-04%20at%201.55.53%E2%80%AFPM.png?alt=media&token=a9772003-4d64-48c0-ae69-727859a684dc)
 
