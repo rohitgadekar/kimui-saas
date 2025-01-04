@@ -26,7 +26,9 @@ export const Home = () => {
           </div>
           <div className="w-full aspect-video rounded-lg bg-muted mt-8 overflow-hidden">
             <img
-              src={"/banner.png"}
+              src={
+                "/banner.jpg"
+              }
               className="w-full h-full object-cover"
             />
           </div>
