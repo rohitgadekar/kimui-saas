@@ -7,7 +7,7 @@ import { Pricing } from "./pricing";
 export const Home = () => {
   return (
     <>
-      <section className="pt-24 md:pt-32 pb-16 ">
+      <section className="pt-24 md:pt-32 pb-16 select-none cursor-default">
         <div className="flex flex-col items-center text-center gap-8 max-w-3xl mx-auto px-4">
           <h1 className="text-4xl md:text-6xl font-bold leading-tight">
             Build Faster with Modern Development Tools
